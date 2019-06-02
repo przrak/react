@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "surname": "Bokach",
+    "name": "Dmitry",
+    "patronymic": "Igorevich",
+    "position": "Java Developer"
+  },
+  {
+    "id": "2",
+    "surname": "Ivanov",
+    "name": "Petr",
+    "patronymic": "Vasilevich",
+    "position": "C++ Developer"
+  },
+  {
+    "id": "3",
+    "surname": "Vlasova",
+    "name": "Svetlana",
+    "patronymic": "Denisovna",
+    "position": "Designer"
+  },
+  {
+    "id": "4",
+    "surname": "Sidorov",
+    "name": "Georgy",
+    "patronymic": "Ivanovich",
+    "position": "React Developer"
+  }
+]
