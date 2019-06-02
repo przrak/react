@@ -18,10 +18,9 @@ export default class App extends Component {
         visible: false
     };
 
-    constructor(props) {
-        super(props);
+    componentDidMount() {
         this.loadUsers();
-    };
+    }
 
     loadUsers = () => {
         this.networkService
